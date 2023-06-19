@@ -1,6 +1,6 @@
 # project-2  
 
-| projects github  |         demo  |
-| -------------    | ------------- |
-| Content Cell     | Content Cell  |
-| Content Cell     | Content Cell  |
+| #   |    project  | |live Demo|
+| ----| ------------- | -------|
+|1    | [card](www.google.com)  |         |
+| 2   | Content Cell  |         |
